@@ -8,3 +8,4 @@ def train():
 
 def load_data(filename):
     print("load data")
+    train_data = pd.read_csv('data/train.csv')
