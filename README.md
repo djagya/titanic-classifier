@@ -7,6 +7,7 @@ We have three pieces of data:
 - `gender_submission.csv` - example submission
 
 ## Data information
+
 ### Data Dictionary
 
 survival	Survival	0 = No, 1 = Yes

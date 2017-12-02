@@ -1,0 +1,4 @@
+Made by Kirill Prakhov and Danil Zakablukovskii.
+Usernames are on Kaggle: "kipmann" and "djagya" respectively.
+
+Achieved score: 0.77033
